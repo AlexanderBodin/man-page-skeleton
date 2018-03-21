@@ -18,3 +18,6 @@ To improve or suggest something simply open an issue or submit a Pull.
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
 5. Create a new Pull Request
+
+## License
+[MIT 2018 Alexander Bodin](https://github.com/AlexanderBodin/man-page-skeleton/blob/master/LICENSE)
