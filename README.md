@@ -1,5 +1,6 @@
 # Manual Page Skeleton  :skull:
-:construction:
+![Example](https://i.imgur.com/TBEB1rS.png)
+
 
 ## Usage
 :construction:
