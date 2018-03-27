@@ -16,6 +16,21 @@
 
 ![Compress man page](https://i.imgur.com/mPqoS2u.png)
 
+5. Evaluate where to move the compressed man page
+![manpath command used to evaluate path of man pages](https://i.imgur.com/fLcB8cn.gif)
+        <details>
+           <summary>Subdirectories for the different man page sections
+          </summary>
+         <p>![](https://i.imgur.com/XMOHVYP.png)</p>
+         </details>
+
+6. Copy the compressed man page into the man page directory of your choice (*See Example*)
+```
+cp human.1.gz /usr/share/man/man1
+```
+:construction:
+
+
 
 ## Development
 
