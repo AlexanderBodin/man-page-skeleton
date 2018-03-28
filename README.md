@@ -28,7 +28,7 @@
 cp human.1.gz /usr/share/man/man1
 ```
 7. Make sure that the man page can be called by man. (*See Example*)
-![](https://i.imgur.com/eCfnZ20.gif)
+![](https://i.imgur.com/HHvY18g.gif)
 
 
 ## Development
