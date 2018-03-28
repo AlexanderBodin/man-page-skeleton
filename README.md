@@ -28,8 +28,8 @@
 ```
 cp human.1.gz /usr/share/man/man1
 ```
-:construction:
-
+7. Make sure that the man page can be called by man. (*See Example*)
+![](https://i.imgur.com/2y4yo27.gif)
 
 
 ## Development
