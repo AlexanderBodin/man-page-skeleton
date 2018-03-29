@@ -1,4 +1,3 @@
-
 .\" This is a comment line, which wont appear in the man page.                                                                    
 .TH skeleton x
 .SH NAME
