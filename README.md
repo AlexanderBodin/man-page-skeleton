@@ -18,7 +18,7 @@
 5. Evaluate where to move the compressed man page
 ![](https://i.imgur.com/fLcB8cn.gif)
         <details>
-           <summary>Subdirectories for the different man page sections
+           <summary>Subdirectories for the different man page sections (Click to expand)
           </summary>
          <p>![](https://i.imgur.com/XMOHVYP.png)</p>
          </details>
