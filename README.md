@@ -1,4 +1,6 @@
 # Manual Page Skeleton  :skull:
+![license](https://img.shields.io/github/license/alexanderbodin/man-page-skeleton.svg?style=flat-square)
+
 ![](https://i.imgur.com/TBEB1rS.png)
 
 
